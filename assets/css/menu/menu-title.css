@@ -1,0 +1,10 @@
+header {
+    align-items: center;
+    display: flex;
+}
+
+.menu__title {
+    align-items: center;
+    display: center;
+    padding-left: .7rem;
+}
